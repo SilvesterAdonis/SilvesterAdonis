@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/silvester-ad%C3%B4nis-concei%C3%A7%C3%A3o-de-menezes-596301307/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> <br> <br>
  
-![Snake animation](https://github.com/SilvesterAdonis/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!---
