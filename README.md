@@ -1,6 +1,6 @@
-# **Oiii, meu nome é Silvester Adônis** <br> *Estudante de ADS e Criador iniciante de sites, jogos e learning machine*
+# **Oiii, meu nome é Silvester Adônis** <br> *Estudante de ADS e Criador iniciante de sites e jogos *
 
-### 🧠 Eu estou estudando para trabalhar em desenvolvimento de jogos, desenvolvimento web e ciências de dados
+### 🧠 Eu estou estudando para atuar na área de Desenvolvimento Front-End e em algumas ocasiões me envolve com projetos de Desenvolvimento de Jogos 
 
 ### 📕 O meu aprendizado atual consiste no estudo de:
 
