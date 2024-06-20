@@ -1,4 +1,4 @@
-# **Oiii, meu nome é Silvester Adônis** <br> *Estudante de ADS e Criador iniciante de sites e jogos**
+# **Oiii, meu nome é Silvester Adônis** <br> *Estudante de ADS e Criador iniciante de sites e jogos*
 
 ### 🧠 Eu estou estudando para atuar na área de Desenvolvimento Front-End e em algumas ocasiões me envolve com projetos de Desenvolvimento de Jogos 
 
