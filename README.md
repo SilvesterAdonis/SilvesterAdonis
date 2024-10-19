@@ -1,37 +1,26 @@
-# **Oiii, meu nome é Silvester Adônis** <br> *Estudante de ADS e Criador iniciante de sites e jogos*
+<h1 align="center">Welcomeee 👋, I'm Silvester Adônis</h1>
+<h3 align="center">Passionate DevOps and Cybersecurity Professional from Brazil</h3>
 
-### 🧠 Eu estou estudando para atuar na área de Desenvolvimento Front-End e Back-End e em algumas situações me envolver com projetos de Desenvolvimento de Jogos 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/silvester-adonis/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@castian497056.medium.com) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/silvester-adonis/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/27887385/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@SilvesterAdonis) 
 
-### 📕 O meu aprendizado atual consiste no estudo de:
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=silvesteradonis&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=silvesteradonis&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=silvesteradonis&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" /> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" height="40" />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
-<img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  width="40" height="40" />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  width="40" height="40" />                      
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<br><br>
- <div>
-<a href="https://github.com/SilvesterAdonis">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvesterAdonis&layout=compact&langs_count=7&theme=tokyonight"/>
-<img loading="lazy" height="180em"  src="https://github-readme-stats.vercel.app/api?username=SilvesterAdonis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs,prs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=silvesteradonis&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-## Contatos:
+---
+[![](https://visitcount.itsvg.in/api?id=silvesteradonis&icon=5&color=11)](https://visitcount.itsvg.in)
 
-<div>
-<a href="https://www.youtube.com/@SlowPeace-fy3xo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/silvester_adonis?igsh=bTc5bms1ejI1cmE0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.com/channels/567517918716362764" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-567517918716362764?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href = "mailto:silveransk@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/silvester-ad%C3%B4nis-concei%C3%A7%C3%A3o-de-menezes-596301307/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div> <br> <br>
- 
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 SilvesterAdonis/SilvesterAdonis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
